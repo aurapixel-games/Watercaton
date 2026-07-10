@@ -1,12 +1,4 @@
-# Watercaton
-
-Choose your language / Выберите язык:
-* [English Version (#-english-version)](#-english-version)
-* [Русская версия (#-русская-версия)](#-русская-версия)
-
----
-
-# 🇬🇧 English Version
+# English Version
 
 ## About the Game & Gameplay Guide
 **Watercaton** is a 2D arcade game developed by AuraPixel Games using the TurboWarp engine. Inspired by the AI-generated "cat in a watermelon" meme that became widely popular across the CIS region, the game challenges players to run around a field, collect food bowls, and enjoy a uniquely absurd and fun atmosphere.
@@ -49,7 +41,7 @@ Each collected food bowl awards you **1 Watermelon Coin (Арбузкоин)**. 
 
 ---
 
-# 🇷🇺 Русская версия
+# Русская версия
 
 ## О игре и пояснение геймплея
 **Watercaton** — это игра, разработанная студией AuraPixel Games на движке TurboWarp. Вдохновленная мемом «кот в арбузе», игра предлагает пользователям бегать по полю, собирать миски и наслаждаться неповторимой абсурдной атмосферой.
